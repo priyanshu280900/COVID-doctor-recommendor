@@ -5,4 +5,4 @@ This is a web application, using which users/patients can perform multiple opera
 3. can give a COVID based test with symptom checking parameters and based on that they will get a report,
 4. can book for RTPCR test, COVID specialist (pseudo booking) and many  more.
 
-A document will be attached for further information.
+A document is attached for further information.
