@@ -1,4 +1,4 @@
-# doctor-recommendor
+#  COVID doctor-recommendor
 This is a web application, using which users/patients can perform multiple operations such as 
 1. can look for a doctor in a particular city,
 2. can book an appointment ,
